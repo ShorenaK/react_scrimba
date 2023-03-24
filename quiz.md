@@ -23,3 +23,14 @@ to tell it HOW to do each step.
 5. What does it mean for something to be "composable"?
 We have small pieces that we can put together to make something
 larger/greater than the individual pieces.
+
+
+1. waht is the react component
+
+function that returns react elements. 
+react elements are the objects that created 
+when we retunr JSX - return regular java script object.
+
+(UI) - user interface what user can see on screen 
+
+reuse over and over by rerenderign the components
